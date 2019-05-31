@@ -7,6 +7,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>ihrm_common</module>
+        <module>ihrm_commom_model</module>
+        <module>ihrm_company</module>
     </modules>
 
     <groupId>com.ihrm</groupId>
